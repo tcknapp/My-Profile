@@ -161,6 +161,7 @@ footer {
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #ddd;
+  font-size: 12px;
 }
 
 h3,
@@ -278,5 +279,9 @@ input[type=submit] {
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+
+.gthb {
+ 
 }
 
