@@ -161,7 +161,7 @@ footer {
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #ddd;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 h3,
@@ -264,7 +264,7 @@ input[type=submit] {
   bottom: 20px;
   width: 100%;
   padding: 15px;
-  margin-bottom: 0;
+  margin-bottom: 6px;
   font-weight: 300;
   line-height: 30px;
   color: #fff;
@@ -281,7 +281,9 @@ input[type=submit] {
   margin-right: 25px;
 }
 
-.gthb {
- 
+#gthb {
+  clear:both;
+  z-index: 1;
+  color: pink;
 }
 
